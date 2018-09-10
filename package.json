@@ -1,0 +1,16 @@
+{
+  "name": "typescript-import-error",
+  "version": "0.0.1",
+  "description": "Typescript import error demo",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michał Lipiński <mylith@gmail.com>",
+  "license": "",
+  "devDependencies": {
+    "@types/angular": "^1.6.50",
+    "@types/angular-mocks": "^1.7.0",
+    "typescript": "^3.0.3"
+  }
+}
